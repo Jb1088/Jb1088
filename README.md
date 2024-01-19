@@ -1,8 +1,8 @@
 - 💫🌙🌍💫🌙🌍💫🌙🌍💫🌙🌍
 - Hi, I’m @Jb1088
-- 👀 I’m interested in becoming a software developer/learn coding
+- 👀 I’m interested in becoming a software developer/full stack developer 
 - 🌱 I’m currently learning the basics 
-- 💞️ I’m looking to collaborate on Vue
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me lilly2mel1088@gmail.com
 <!---
 Jb1088/Jb1088 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
